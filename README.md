@@ -49,10 +49,11 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 **Tools**
 
-![Git](https://git-scm.com/)
-![GitHub](https://github.com/)
-![VS Code](https://code.visualstudio.com/)
-![Visual Studio](https://visualstudio.microsoft.com/)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
 ---
 
@@ -91,19 +92,19 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## Currently
+## 🔭 Currently
 
-- 📚 Studying for my BSc in Information Technology
-- 💻 Learning backend development
-- 🎥 Creating networking and cybersecurity education content
+- Studying for my BSc in Information Technology
+- Learning backend development
+- Creating networking and cybersecurity education content
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuboi-isaac&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuboi-isaac&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ---
