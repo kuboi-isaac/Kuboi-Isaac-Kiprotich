@@ -92,7 +92,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - Studying for my BSc in Information Technology
 - Learning backend development
@@ -103,8 +103,8 @@ I also teach **computer networking and cybersecurity** through short-form conten
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuboi-isaac&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuboi-isaac&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="180" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details">
+  <img height="180" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time">
 </p>
 
 ---
