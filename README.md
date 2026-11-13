@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Isaac 👋</h1>
+<h1 align="center">Hi, I'm Isaac</h1>
 
 <p align="center">
   <b>Network Engineer</b> • <b>Frontend Developer</b> • <b>Implementation Engineer</b><br>
-  📍 Kampala, Uganda
+  Kampala, Uganda
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Network Engineer, Frontend Developer and Implementation Engineer** with hands-on experience supporting enterprise systems in **government and financial-sector environments**. I deploy and configure applications, train users, run User Acceptance Testing (UAT), and hand projects over smoothly.
 
@@ -21,15 +21,15 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🎓 **BSc Information Technology** — Cavendish University Uganda *(ongoing)*
-- 📜 **Diploma in Infrastructure Management Services** — Sai Pali Institute of Technology & Management, Kampala *(Dec 2022, GPA 3.45, Dean's List)*
+- **BSc Information Technology** — Cavendish University Uganda *(ongoing)*
+- **Diploma in Infrastructure Management Services** — Sai Pali Institute of Technology & Management, Kampala *(Dec 2022, GPA 3.45, Dean's List)*
   - *Coursework: Networking, Windows Server, Routing & Switching, Information Security, VMware, Linux Administration*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Web**
 
@@ -49,15 +49,14 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Git](https://git-scm.com/)
+![GitHub](https://github.com/)
+![VS Code](https://code.visualstudio.com/)
+![Visual Studio](https://visualstudio.microsoft.com/)
 
 ---
 
-## 🌐 Networking & Security
+## Networking & Security
 
 | Networking | Security |
 |---|---|
@@ -69,7 +68,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Implementation Engineer — Applications, Training & Systems Support
 *Various Government & Financial Sector Projects • 2023 – Present*
@@ -80,7 +79,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 - Coordinate UAT and turn user feedback into improvements
 - Manage incidents and service requests, and manage access and permissions securely
 
-### 📌 Key Projects
+### Key Projects
 
 | Project | Client | Period |
 |---|---|---|
@@ -92,7 +91,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - 📚 Studying for my BSc in Information Technology
 - 💻 Learning backend development
@@ -100,7 +99,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
@@ -109,7 +108,7 @@ I also teach **computer networking and cybersecurity** through short-form conten
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm open to **network engineering, implementation and frontend** opportunities.
 Reach me at **kiprotichisaackuboi@gmail.com** or on LinkedIn.
